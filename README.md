@@ -1,0 +1,2 @@
+# pythonshell
+script python
